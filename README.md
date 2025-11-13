@@ -1,4 +1,4 @@
-# Sales-Marketing-Analytics-Dashboard
+<img width="592" height="762" alt="Sales_And_Markeing_Academic_Dashboard-2" src="https://github.com/user-attachments/assets/bf3bc6ab-3b2d-4bd9-a0cb-f6fd8f4e411e" /># Sales-Marketing-Analytics-Dashboard
 To design and develop an interactive Power BI Sales &amp; Marketing Dashboard that provides insights into product performance, profit distribution, regional sales trends, customer behaviour, and discount impact. The objective is to enable data-driven decision-making for sales, marketing, and inventory management.
 #  Project Overview
 
@@ -25,6 +25,11 @@ What actions can improve profitability and optimize inventory?
 #  Dashboard Sample Screenshots
 
 <img width="1687" height="802" alt="Sales_And_Markeing_Academic_Dashboard" src="https://github.com/user-attachments/assets/020f7066-6942-4ddf-8d2b-b07479717460" />
+<img width="595" height="764" alt="Sales_And_Markeing_Academic_Dashboard-1" src="https://github.com/user-attachments/assets/ca81bccb-c60b-40e0-a4f2-b3f80b2afe11" />
+<img width="592" height="762" alt="Sales_And_Markeing_Academic_Dashboard-2" src="https://github.com/user-attachments/assets/7d2f47ab-a3f5-4f32-b01e-ba7be4ad4320" />
+<img width="922" height="749" alt="Sales_And_Markeing_Academic_Dashboard-3" src="https://github.com/user-attachments/assets/9bbf2212-3c87-4a60-870d-11654a30e67c" />
+
+
 
 
 #  Tools & Techniques Used
